@@ -1,6 +1,6 @@
 # Updates on Nov 27, 2022
-I found that SVM works even better in this task. The accuracy reaches 100%.
-I put the code of SVM in a new folder named SVM_PitchIdentification.
+<div>I found that SVM works even better in this task. The accuracy reaches 100%.</div>
+<div>I put the code of SVM in a new folder named SVM_PitchIdentification.</div>
 
 # Pitch_Identification
 Identify a single clear note of the D-major Guzheng
