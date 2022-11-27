@@ -17,7 +17,7 @@ def load_labeled_data(path,y):
     return standardizedlogCx
 
 
-# load labeled datasets, prepare the training data
+# prepare the training data
 training_data=np.empty(shape=(0,73))
 for dataset_num in range(1,21):  # use dataset1 to dataset20 to form the training data
     for i in range(1,22):
